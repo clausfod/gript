@@ -8,7 +8,7 @@
     "bower-license": "0.4.1",
     "cors": "2.7.1",
     "del": "2.2.0",
-    "eslint": "1.10.3",
+    "eslint": "7.6.0",
     "eslint-plugin-angular": "0.15.0",
     "gulp-angular-filesort": "1.1.1",
     "gulp-appcache": "0.0.4",
