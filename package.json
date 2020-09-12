@@ -51,7 +51,7 @@
     "gulp-useref": "3.0.5",
     "gulp-watch": "4.3.5",
     "http": "0.0.0",
-    "http-proxy": "1.13.1",
+    "http-proxy": "1.18.1",
     "jasmine-core": "2.4.1",
     "karma": "0.13.22",
     "karma-angular-filesort": "1.0.1",
